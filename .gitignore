@@ -1,0 +1,21 @@
+# Fine-tuned model checkpoints & tokenizers
+finetuned_bert_final/
+finetuned_roberta_final/
+*.bin
+*.safetensors
+*.pt
+*.onnx
+
+results_bert/
+results_roberta/
+*.bin
+*.safetensors
+*.pt
+*.onnx
+
+.csv
+# Python environment & cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
